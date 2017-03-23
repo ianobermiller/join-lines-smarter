@@ -1,0 +1,22 @@
+{
+  "name": "join-lines-smarter",
+  "main": "./lib/join-lines-smarter",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "join-lines-smarter:join-lines"
+  },
+  "repository": "https://github.com/ianobermiller/join-lines-smarter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^19.0.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

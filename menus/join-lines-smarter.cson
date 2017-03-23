@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Join Lines Smarter'
+      'submenu': [
+        {
+          'label': 'Join Lines Smarter at Cursor'
+          'command': 'join-lines-smarter:join-lines'
+        }
+      ]
+    ]
+  }
+]

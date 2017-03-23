@@ -1,0 +1,2 @@
+'atom-workspace atom-text-editor:not([mini])':
+  'cmd-j': 'join-lines-smarter:join-lines'
