@@ -2,7 +2,7 @@
   "name": "join-lines-smarter",
   "main": "./lib/join-lines-smarter",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A smarter, language-agnostic Join Lines command.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "join-lines-smarter:join-lines"
